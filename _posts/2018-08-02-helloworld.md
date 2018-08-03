@@ -4,7 +4,7 @@ title: '你好，博客'
 tag: 博客 
 keywords: 你好 博客
 category: hello
-cover: '/assets/img/profile.png'
+cover: 'https://github.com/2361913785/2361913785.github.io/raw/master/assets/img/profile.png'
 ---
 大家好，我是桐桦君。我终于来到了博客世界了，好精彩啊~~~  
 我竟然带着玩 我的世界 的来到了这里。。。  
